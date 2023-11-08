@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-zcj",
+  "version": "1.0.7",
+  "description": "公司前端lint规则校验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.49.0"
+  }
+}
